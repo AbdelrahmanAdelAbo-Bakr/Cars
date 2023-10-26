@@ -20,6 +20,6 @@ The Manager asked the Employee for:
 1.	Import Data in SQL Server.
 2.	Data Cleaning (Check for Null Values – Duplicate Rows).
 3.	Create a View with Distinct Rows to analyze Data.
-4.	Writing Queries to get required Results.
+4.	Data Analysis by Writing Queries to get required Results.
 
 
